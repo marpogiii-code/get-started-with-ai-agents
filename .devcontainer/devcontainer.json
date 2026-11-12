@@ -21,6 +21,6 @@
     "postCreateCommand": "python3 -m pip install -e src",
     "remoteUser": "vscode",
     "hostRequirements": {
-        "memory": "32gb"
+        "memory": "16gb"
     }
 }
